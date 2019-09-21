@@ -61,7 +61,7 @@ body{
 }
 
 #carouselButton {
-    right: 0px;
+    right: 0;
     position: absolute;
-    bottom: 0px;
+    bottom: 0;
 }
