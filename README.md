@@ -5,10 +5,10 @@
 ![bootstrap version](https://img.shields.io/badge/bootstrap-v4.3.1-indigo.svg)
 
 ## Table of Contents
-## 1. [Project description](#projectdesc)
-## 2. [Installation](#installation)
-## 3. [File Description](#files)
-## 4. [Acknowledgements](#licensing)
+ 1. [Project description](#projectdesc)
+ 2. [Installation](#installation)
+ 3. [File Description](#files)
+ 4. [Acknowledgements](#licensing)
 
 
 ## 1. Project description <a name="projectdesc"></a>
