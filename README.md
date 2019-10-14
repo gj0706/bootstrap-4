@@ -22,7 +22,7 @@ Here is a screen capture of the final look of the webpage.
 ## 2. Installation<a name="installation"></a>
 ## 3. File Descriptions <a name="files"></a>
 ## 4. Acknowledgements<a name="licensing"></a>
-
+Thanks to Coursera for offering this great project excercise.
 
    
    
